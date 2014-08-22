@@ -1,5 +1,4 @@
-Command line tool to generate Go OpenGL wrappers.
+This tool is deprecated. Please use Glow instead:
+    https://github.com/go-gl/glow
 
-See documentation online:
-  http://www.azul3d.org/packages.html
-
+~Command line tool to generate Go OpenGL wrappers.~
