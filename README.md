@@ -1,4 +1,3 @@
-This tool is deprecated. Please use Glow instead:
-    https://github.com/go-gl/glow
+This tool is deprecated: use [Glow](https://github.com/go-gl/glow) instead.
 
-~Command line tool to generate Go OpenGL wrappers.~
+Please see [Yin and Yang: using Glow and GLFW](https://azul3d.org/news/2014/yin-and-yang-using-glow-and-glfw.html)
